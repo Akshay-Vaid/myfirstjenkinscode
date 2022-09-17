@@ -15,3 +15,5 @@
                data-sap-ui-resourceRoots='{"my.app": "./"}'
  			></script>
 	</head>
+
+	<body/>
