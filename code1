@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
 	<head>
 		<meta charset="utf-8">
 		<title>SAPUI5 Walkthrough</title>
@@ -14,6 +15,3 @@
                data-sap-ui-resourceRoots='{"my.app": "./"}'
  			></script>
 	</head>
-	<body class="sapUiBody" id="content">
-	</body>
-</html>
